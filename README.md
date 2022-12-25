@@ -1,1 +1,1 @@
-# thai-stock-advisor
+# chatbot-thai-stock-advisor
